@@ -1,5 +1,7 @@
 # react-ko-starter
 
+[en English](./README.md) | ja 日本語
+
 これは [react-ko](https://github.com/menimani/react-ko) の**公式スターターテンプレート**です。  
 **React** と **Knockout.js** をシンプルに組み合わせたミニマルな環境を提供します。
 
