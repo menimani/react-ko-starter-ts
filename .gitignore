@@ -10,6 +10,7 @@
 !package-lock.json
 !package.json
 !README.md
+!README.ja.md
 !tsconfig.app.json
 !tsconfig.json
 !tsconfig.node.json
