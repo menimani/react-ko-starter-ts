@@ -10,13 +10,16 @@
 ## 🚀 クイックスタート
 
 ```bash
-npx degit menimani/react-ko-starter my-app
+npx degit menimani/react-ko-starter-ts my-app
 cd my-app
 npm install
 npm run dev
 ```
 
 [`App.tsx`](./src/App.tsx) を開いて編集すれば、すぐに Knockout のバインディングが React の中で動作します。
+
+JS用テンプレートについては下記を参照してください。  
+[react-ko-starter-js](https://github.com/menimani/react-ko-starter-js)
 
 ---
 

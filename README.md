@@ -8,7 +8,7 @@ a minimalist bridge between **React** and **Knockout.js**.
 ## 🚀 Quick Start
 
 ```bash
-npx degit menimani/react-ko-starter my-app
+npx degit menimani/react-ko-starter-ts my-app
 cd my-app
 npm install
 npm run dev
@@ -16,6 +16,9 @@ npm run dev
 
 Then open [`App.tsx`](./src/App.tsx) and edit freely.  
 Knockout bindings will work instantly inside your React components!
+
+For the JavaScript version, check out:  
+[react-ko-starter-js](https://github.com/menimani/react-ko-starter-js)
 
 ---
 
